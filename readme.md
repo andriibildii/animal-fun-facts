@@ -17,6 +17,3 @@ The selected fact will pop up on the screen. As we keep clicking, we’ll be abl
 Created file - **app.js**
 
 All other files have been provided by Codecademy.
-
-## Outcome 
-To view the final output, [click here](https://andriibildii.github.io/animal-fun-facts/ "click here").
