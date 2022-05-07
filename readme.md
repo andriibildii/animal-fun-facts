@@ -15,6 +15,7 @@ The selected fact will pop up on the screen. As we keep clicking, we’ll be abl
 
 ## Workspace
 Created file - **app.js**
+
 All other files have been provided by Codecademy.
 
 ## Outcome 
